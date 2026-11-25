@@ -6,6 +6,7 @@ public class ArrayListDemo
 {
     public static void main(String[] args)
     {
+        System.out.println("ArrayList Demo is here");
         ArrayList<String> names = new ArrayList<>();//maintains order, duplicates allowed, accessed using index
 
         names.add("Rahul");
